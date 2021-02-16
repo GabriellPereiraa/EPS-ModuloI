@@ -16,9 +16,9 @@
                         </a>
                     </li> -->
                     <li class="sidebar-item">
-                        <a href="AcessoInformacao.php" class="sidebar-link">
+                        <a href="Apresentacao.php" class="sidebar-link">
                             <i data-feather="home" width="20"></i>
-                            <span>Módulo II - Acesso à Informação</span>
+                            <span>Apresentação</span>
                         </a>
                     </li>
                 </ul>

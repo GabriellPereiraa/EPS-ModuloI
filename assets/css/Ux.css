@@ -379,3 +379,9 @@ Texto negrito
 
 
 /* Fim da configuração do btn back to top */
+
+#img0{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
