@@ -21,6 +21,12 @@
                             <span>Apresentação</span>
                         </a>
                     </li>
+                    <li class="sidebar-item">
+                        <a href="Topico1.php" class="sidebar-link">
+                            <i data-feather="home" width="20"></i>
+                            <span>Tópico 1</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
             <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
