@@ -57,9 +57,9 @@ include('layout/header.php');
                 <i class="fas fa-bullseye" style="color:#286ce6"></i>
                 Levantar informações necessárias e conhecer o roteiro de elaboração deprojetos sociais que atendam de forma efetiva às necessidades do cidadão.
                 </p>
-
             </div>
-
+            <br>
+            
             <center>
             <div class="btn-group" id="btn-group">
                 <a href="#" class="btn btn-primary">Topo da Página</a>
